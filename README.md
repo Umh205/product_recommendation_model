@@ -24,11 +24,6 @@ Key insights included the dominance of the "Consumer" segment in profitability, 
 * The **Python Pipeline** used for EDA, Model Building for Recommendation Systems and Deployment of model can be found [here](https://github.com/nikitaprasad21/Product-Recommendation-Analysis-Project/blob/main/notebooks/Product-Recommendation-Project.ipynb).
 * The **Recommendation App** demo can be found [here](https://huggingface.co/spaces/nikitaprasad-analyst/product-recommendation-system).
 
-## Dashboard
-
-Here is the glimpse of dashboard.
-![Screenshot 2023-04-12 165416](https://user-images.githubusercontent.com/84131752/231447810-39810cfc-f423-4463-b6c8-e2eb4c73f878.png)
-
 
 ## Insights
 
