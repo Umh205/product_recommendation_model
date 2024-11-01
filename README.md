@@ -21,7 +21,7 @@ Key insights included the dominance of the "Consumer" segment in profitability, 
 ## Codes
 * The targed **SQL queries** regarding various business questions can be found [here](https://github.com/nikitaprasad21/Product-Recommendation-Analysis-Project/blob/main/notebooks/Products-Analysis.sql).
 * The **Python Pipeline** used for EDA, Model Building for Recommendation Systems and Deployment of model can be found [here](https://github.com/nikitaprasad21/Product-Recommendation-Analysis-Project/blob/main/notebooks/Product-Recommendation-Project.ipynb).
-* The **Recommendation App** demo can be found [here](https://huggingface.co/spaces/nikitaprasad-analyst/product-recommendation-system).
+* The **Recommendation App** demo can be found [here](https://github.com/Umh205/product_recommendation_model/blob/main/Product-Recommendation-Project.ipynb).
 
 
 ## Insights
