@@ -20,7 +20,6 @@ Key insights included the dominance of the "Consumer" segment in profitability, 
 
 ## Codes
 * The targed **SQL queries** regarding various business questions can be found [here](https://github.com/nikitaprasad21/Product-Recommendation-Analysis-Project/blob/main/notebooks/Products-Analysis.sql).
-* The interactive **Tableau dashboard** used to report and explore sales trends can be found [here](https://public.tableau.com/app/profile/nikita.prasad/viz/QuarterlySalesForecastingAnalysisDahboard/AnalysisDashboard).
 * The **Python Pipeline** used for EDA, Model Building for Recommendation Systems and Deployment of model can be found [here](https://github.com/nikitaprasad21/Product-Recommendation-Analysis-Project/blob/main/notebooks/Product-Recommendation-Project.ipynb).
 * The **Recommendation App** demo can be found [here](https://huggingface.co/spaces/nikitaprasad-analyst/product-recommendation-system).
 
